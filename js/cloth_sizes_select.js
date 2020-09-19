@@ -1,0 +1,1 @@
+﻿var cloth_sizes_select_element = "<select id='cloth_sizes_select' style='float:left;'><option>Выбрать размер</option><option>XS (36)</option><option>S (37/38)</option><option>M (39/40)</option><option>L (41/42)</option><option>XL (43/44)</option><option>XXL (45/46)</option></select>";

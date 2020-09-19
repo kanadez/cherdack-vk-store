@@ -1,0 +1,83 @@
+#back_to_catalog_div
+{
+   background: none repeat scroll 0 0 #fff;
+   float: left;     
+   font-size: 12px;     
+   height: 16px;     
+   margin: 0 0 0 1px;     
+   padding: 10px 10px 10px 5px;   
+}
+
+#back_to_catalog_div:hover
+{
+   background: none repeat scroll 0 0 #E1E7ED;
+   opacity:0.8;
+   border-radius: 2px 2px 2px 2px;     
+   float: left;     
+   font-size: 12px;     
+   height: 16px;     
+   margin: 0 0 0 1px;     
+   padding: 10px 10px 10px 5px;   
+   cursor:pointer;
+}
+
+#back_to_catalog_a:hover
+{
+   text-decoration:none;
+}
+
+#product_title_div
+{
+   margin:10px 0 0 5px; 
+   font-size:24px; 
+   clear: both;
+   text-align:center;
+}
+
+#back_to_catalog_a
+{
+   margin-left: 5px;   
+}
+
+#product_state_div
+{
+   font-size:12px; 
+   margin-top:10px   
+}
+
+#cross_links_label_div
+{
+   float:left; 
+   width:650px; 
+   height:auto; 
+   margin:10px 0 0 5px;   
+}
+
+#leave_comment_label_div
+{
+   float:left; 
+   width:650px; 
+   height:auto; 
+   margin:10px 0 0 5px;   
+}
+
+#product_state_icon_span
+{
+   width:13px; 
+   height:13px; 
+   float:left; 
+   background:url("../img/check_no_in_stock_small.png") no-repeat; 
+   opacity:0.6;
+}
+
+#product_size_select_div
+{
+   font-size:12px; 
+   margin:10px 9px 0 0; 
+   text-align: center;
+}
+
+#product_price_div
+{
+   margin-top:20px;   
+}

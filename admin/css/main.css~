@@ -1,0 +1,144 @@
+body
+{
+   margin:0;
+   overflow:auto;
+   padding:0;
+   font-size:12px;
+   outline:none;
+   width:833px;
+   font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+}
+
+a
+{
+   text-decoration:none;
+   color:#000;
+   outline: none;
+}
+
+a img
+{
+   border:none;
+}
+
+table{
+	border-width: 1px;
+	border-spacing: 2px;
+	border-style: none;
+	border-color: rgb(238, 238, 238);
+	border-collapse: collapse;
+	background-color: white;
+}
+table th {
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: rgb(238, 238, 238);
+	background-color: white;
+}
+table td {
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: rgb(238, 238, 238);
+	background-color: white;
+   height:25px;
+   text-align:center;
+}
+
+#content_div
+{
+   background: none repeat scroll 0 0 #fff;
+   min-height: 437px;
+   width: 1024px;
+   margin-left:240px;
+   -moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px; 
+   border-bottom-left-radius: 5px 5px;
+   border-bottom-right-radius: 5px 5px;
+   border-top-left-radius: 5px 5px;
+   border-top-right-radius: 5px 5px;
+   padding: 10px;
+}
+
+#clock_div
+{
+   padding:10px;  
+   position: fixed;
+   margin-top: 10px;
+   width: 200px;
+   margin-left:10px;
+   float: left;
+   -moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px; 
+   border-bottom-left-radius: 5px 5px;
+   border-bottom-right-radius: 5px 5px;
+   border-top-left-radius: 5px 5px;
+   border-top-right-radius: 5px 5px;
+   background: no-repeat scroll 0 0 #EEEEEE;
+   height:50px;
+   font-size:12px;
+   line-height: 50px;
+   text-align: center;
+}
+
+.side_panel
+{
+   padding:10px;  
+   position: fixed;
+   margin-top: 101px;
+   width: 200px;
+   margin-left:10px;
+   float: left;
+   -moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px; 
+   border-bottom-left-radius: 5px 5px;
+   border-bottom-right-radius: 5px 5px;
+   border-top-left-radius: 5px 5px;
+   border-top-right-radius: 5px 5px;
+   background: no-repeat scroll 0 0 #EEEEEE;
+   height:auto;
+   font-size:16px;
+}
+
+
+
+.side_panel_button
+{
+   width:100%;
+   margin-top:5px;
+}
+
+.counter_div
+{
+   margin-top: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:12px;
+}
+
+.table_header
+{
+   background-color:rgb(185, 240, 182);
+}
+
+.admin_table
+{
+   margin-left: 230px;
+   float: left;
+}
+
+.table_contrast_row
+{
+   background: none repeat scroll 0 0 #EEE;
+}
+
+.top10px
+{
+   margin: 10px 0 0 0;   
+}

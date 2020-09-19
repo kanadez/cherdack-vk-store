@@ -1,0 +1,58 @@
+.cart_item_name
+{
+   color:#2b2b2b
+}
+
+.cart_item_besides_name
+{
+   color:#7f7f7f
+}
+
+#total_sum_div
+{
+   font-weight: bold;
+   float: left;
+}
+
+#total_sum_span
+{
+   color: #7f7f7f;
+}
+
+#cart_div
+{
+   width: auto; 
+   height: 100%; 
+   padding: 10px;
+}
+
+.cart_buy_msg_div
+{
+   margin: 10px 0 10px 0; 
+   font-size: 12px; 
+   color: #2b2b2b; 
+   font-weight: bold;
+}
+
+.cart_table_img
+{
+   float: left; 
+   height: 100px
+}
+
+.cart_item_info
+{
+   margin: 20px 0 0 140px;
+}
+
+.cart_button
+{
+   margin: 0 0 0 10px;
+}
+
+.cancel_order_button
+{
+   float: right; 
+   margin: -29px 0 0 0;
+   width:20%;
+}

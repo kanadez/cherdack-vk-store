@@ -1,0 +1,105 @@
+#make_order_page_div
+{
+   width:auto; 
+   height:auto; 
+   padding:10px; 
+   text-align:center;
+}
+
+.order_process_progress_bar_img
+{
+   margin-left:auto; 
+   margin-right:auto; 
+   width:372px;   
+}
+
+#order_process_step_title_div
+{
+   width:100%; 
+   font-size:14px; 
+   margin-top:30px; 
+   border-bottom:1px solid #E5E5E5;
+   padding-bottom:10px;
+}
+
+#order_process_payment_info_div
+{
+   width:33%; 
+   margin-top:20px;  
+   border-right: 1px solid #E5E5E5;
+   height:150px; 
+   float:left;   
+}
+
+.order_process_conditions_block_content
+{
+   margin-top:10px; 
+   padding:5px;   
+}
+
+#order_process_shipping_info_div
+{
+   width:33%; 
+   margin-top:20px;  
+   border-right: 1px solid #E5E5E5; 
+   height:150px; 
+   float:left;   
+}
+
+#order_process_returns_info_div
+{
+   width:33%; 
+   margin-top:20px; 
+   height:150px; 
+   float:left;   
+}
+
+#agree_conditions_button_a
+{
+   width:auto;   
+}
+
+#order_process_buttons_panel_div
+{
+   margin-top:20px; 
+   width:100%; 
+   float:left;   
+}
+
+#order_process_a_panel_div
+{
+   margin-top:40px; 
+   width:100%; 
+   float:left;   
+}
+
+#order_process_confirmation_alert_div
+{
+   margin-top: 20px;
+   color:rgb(214,51,51);
+}
+
+#order_process_confirmation_text_div
+{
+   text-align:left;
+   margin-top:10px;
+}
+
+#order_process_end_page_title_div
+{
+   margin-top: 140px;
+   width:100%; 
+   font-size:14px; 
+}
+
+#order_process_end_page_text_div
+{
+   margin-top: 10px;
+}
+
+.centered_title
+{
+   margin-top:176px;   
+   width:100%; 
+   font-size:14px; 
+}
